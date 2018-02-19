@@ -1,0 +1,35 @@
+A Überblick:
+
+Was ist data science? Alles, was dazu führt, aus Daten Erkenntnisse zu bekommen
+
+https://www.axios.com/how-dating-sites-spy-on-you-66b63d32-669d-41cd-9ca1-92d38487b236.html
+https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold
+https://www.theguardian.com/technology/2017/sep/26/tinder-personal-data-dating-app-messages-hacked-sold
+https://medium.com/netflix-techblog/netflix-recommendations-beyond-the-5-stars-part-1-55838468f429
+
+
+Wie empfiehlt man jemanden einen Film?
+
+1. Die beliebtesten Filme vorschlagen
+Aber: Damit geht man nicht auf die Person ein, die Filme sind für alle die gleichen. Außerdem führt es dazu, dass die beliebtesten Filme noch beliebter werden.
+
+Laden in Japan, der Produkte nach Beliebtheit rankt
+
+2. Classifiers
+
+3. Recommendators
+3.1 content-based: ich schlage ähnliches vor zu dem, was du schon kennst
+Aber was wenn es nicht so einfach ist, Ähnlichkeit festzustellen? Oder Kleidung, wo Ähnlichkeit nicht gewünscht ist?
+3.2 collaborative filering: A and B mögen ähnliche Sachen, also sollten sie sich anschauen, was der andere noch mochte
+
+
+MovieLens Datensatz
+
+
+    100,000 ratings (1-5) from 943 users on 1682 movies.
+    Each user has rated at least 20 movies.
+    Simple demographic info for the users (age, gender, occupation, zip)
+    Genre information of movies
+
+
+https://cambridgespark.com/content/tutorials/implementing-your-own-recommender-systems-in-Python/index.html
