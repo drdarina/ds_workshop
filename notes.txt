@@ -1,7 +1,0 @@
-- ml: train an algorithm that does not know what you want
-- find a function of the features! start with type = 1 * form +  1 * farbe +  1 * gewicht
-  mean squared error -> adjust weights
-  surprise!
-- am ende haben wir einen spezifischen satz von gewichten, das für dieses problem kalibriert ist. aber die vorgehensweise können wir auf eine beliebige art von daten anwenden, solange es sinnvoll ist
-Das ist eine Logistische Regression! Wie wird daraus ein NN?
-- wenn wir den gleichen algorthmus mehrmals mit verschiedenen gewichten laufen lassen und dann eine lineare kombination der gewichte verwenden, haben wir ein einfaches nn gebaut
